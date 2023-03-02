@@ -1,2 +1,0 @@
-//= jquery
-//= require semantic-ui
